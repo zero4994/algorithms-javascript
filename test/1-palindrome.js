@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-expressions */
 const { expect } = require("chai");
-const { isPalindrome } = require("../src/meetup-1/palindrome");
+const { isPalindrome } = require("../src/meetup-1/1-palindrome");
 
 describe("palindromes", () => {
   it("should be able to determine if two strings are palindromes of each other", () => {
